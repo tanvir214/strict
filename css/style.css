@@ -98,7 +98,7 @@ header img {
 }
 
 .simple-cont p {
-	font-size: 15px;
+	font-size: 20px;
     color: #aeafaf;
 }
 
@@ -112,21 +112,23 @@ header img {
 }
 
 .feature-one {
-	width: 25%;
+	width: 26%;
     float: left;
     text-align: center;
-    padding: 0 15px;
-    margin: 0 30px;
+    padding: 0px 21px;
+    margin: 0px 20px;
 }
 
 .feature-one h2 {
 	font-weight: 400;
     padding: 20px 0;
+    font-size: 22px;
 }
 
 .feature-one p {
 	font-weight: 300;
     color: #aeafaf;
+    font-size: 15px;
 }
 
 .fa.fa-mobile {
