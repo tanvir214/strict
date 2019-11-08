@@ -25,8 +25,9 @@ header img {
 	/*banner*/
 .banner {
 	width: 100%;
-	float: left;
-	background: url(../img/banner.png);
+    float: left;
+    background: url(../img/banner.png)no-repeat;
+    background-size: cover;
 }
 
 .banner-cont {
